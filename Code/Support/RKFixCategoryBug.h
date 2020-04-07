@@ -30,6 +30,6 @@
  Shamelessly borrowed from Three20
  */
 #define RK_FIX_CATEGORY_BUG(name) @interface RK_FIX_CATEGORY_BUG##name @end \
-@implementation RK_FIX_CATEGORY_BUG##name @end
+// @implementation RK_FIX_CATEGORY_BUG##name @end
 
 #endif
